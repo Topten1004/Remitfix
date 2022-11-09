@@ -1,1 +1,0 @@
-py contribute.py --repository=git@github.com:crazycoding330/Remitfix.git -sd="2022/10/01, 18:54:33" -nw
